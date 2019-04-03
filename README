@@ -1,5 +1,8 @@
 Cambios Version 1.0
 
+Proyecto prototipo Heart AnalyTics
+"Sistema Inteligente de deteccion arritmias cardiacas, mediante el uso de machine learnig"
+
 
 Se sube data en limpio de UCI MAchine learning Irvine Data_set, que contien 275 parametros
 Libreria de Pytorch enfocada a uso datos ECG
