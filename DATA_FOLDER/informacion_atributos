@@ -1,0 +1,97 @@
+Información del atributo:
+
+- Documentación del atributo completo: 
+1 Edad: Edad en años, lineal 
+2 Sexo: Sexo (0 = masculino; 1 = femenino), nominal 
+3 Altura: Altura en centímetros, lineal 
+4 Peso: Peso en kilogramos, lineal 
+5 Duración de QRS: Promedio de la duración de QRS en ms., 
+intervalo 6 PR lineal : duración media entre el inicio de las ondas P y Q en ms., 
+intervalo QT lineal 7: duración media entre el inicio de Q y desplazamiento de las ondas T en ms, 
+intervalo 8 T lineal : Duración media de la onda T en mseg., 
+Intervalo lineal 9 P: Duración media de la onda P en ms., 
+Ángulos lineales vectoriales en grados en el plano frontal de :, lineal 
+10 QRS 
+11 T 
+12 P 
+13 QRST 
+14 J 
+
+15 Frecuencia cardíaca: Número de latidos cardíacos por minuto, lineal 
+
+De canal DI: 
+Ancho promedio, en ms., De: lineal 
+16 Q onda 
+17 R onda 
+18 S onda 
+19 R 'onda, pico pequeño justo después R 
+20 S 'onda 
+
+21 Número de deflexiones intrínsecas, lineal 
+
+22 Existencia de onda R irregular, nominal 
+23 Existencia de derivación bifásica de la onda R, nominal 
+24 Existencia de onda P irregular, nominal 
+25 Existencia de derivación bifásica de la onda P, nominal 
+26 Existencia de onda T desigual, nominal 
+27 Existencia de derivación bifásica de la onda T, nominal 
+
+del canal DII: 
+28 .. 39 (similar a 16 .. 27 del canal DI) 
+de los canales DIII: 
+40 .. 51 
+del canal AVR: 
+52 .. 63 
+del canal AVL: 
+64 .. 75 
+De canal AVF: 
+76 .. 87 
+De canal V1: 
+88 .. 99 
+De canal V2: 
+100 .. 111 
+De canal V3: 
+112 .. 123 
+De canal V4: 
+124 .. 135 
+De canal V5: 
+136 .. 147 
+Del canal V6: 
+148 .. 159 
+
+Del canal DI: 
+Amplitud, * 0,1 milivoltios, de 
+160 JJ onda, lineal 
+161 Q onda, lineal 
+162 R onda, lineal 
+163 S onda, lineal 
+164 R 'onda, lineal 
+165 S' onda, lineal 
+166 P onda, lineal 
+167 T onda, lineal 
+
+168 QRSA, Suma de áreas de todos los segmentos dividida por 10, (Área = ancho * altura / 2), lineal 
+169 QRSTA = QRSA + 0.5 * ancho de onda T * 0.1 * altura de onda T. (Si T es bifásico, se considera el segmento más grande), lineal 
+
+De canal DII: 
+170 .. 179 
+De canal DIII: 
+180 .. 189 
+De canal AVR: 
+190 .. 199 
+De canal AVL: 
+200 .. 209 
+De canal AVF: 
+210 .. 219 
+De canal V1: 
+220 .. 229 
+De canal V2: 
+230 .. 239 
+De canal V3: 
+240 .. 249 
+De canal V4: 
+250 .. 259 
+De canal V5: 
+260. 269 
+Del canal V6: 
+270 .. 279.
